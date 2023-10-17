@@ -1,0 +1,13 @@
+body{
+color: black;
+background-image: url(Nbsktlo.png);
+background-size: cover;
+}
+div{
+text-align: center;
+background-color: rgb(71, 153, 219);
+border-radius: 2px;
+width: 1200px;
+margin:auto;
+border-radius: 25px;
+}
